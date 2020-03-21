@@ -1,4 +1,4 @@
-nome = input ("Qual seu nome?: ")
+nome = input ("Me fala qual seu nome ")
 print ("Ola " +nome, "Seja Bem-vindo")
 
 dia = input("Qual o Dia que você nasceu?: ")
